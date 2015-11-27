@@ -1,0 +1,13 @@
+PODS:
+  - Alamofire (2.0.2)
+  - MagicalRecord/Shorthand (2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - MagicalRecord/Shorthand
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  MagicalRecord: f8a56bb87ab6552f20c4bb8681a1958a197ea3cd
+
+COCOAPODS: 0.39.0
